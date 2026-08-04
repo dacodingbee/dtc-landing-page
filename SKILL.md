@@ -3,8 +3,8 @@ name: dtc-landing-page
 description: "Build high-converting landing pages for DTC and e-commerce brands. Produces self-contained HTML artifacts. Use when the user says 'landing page', 'LP', 'campaign page', 'product page', 'launch page', or asks to turn an email/ad into a page. Loads locked offer facts and brand voice from references/ so prices, dates, and links are never invented. For auditing an existing page, use cro or ads-landing instead."
 metadata:
   version: 1.0.0
-  author: bridgetmao
-  repo: https://github.com/bridgetmao/dtc-landing-page
+  author: dacodingbee
+  repo: https://github.com/dacodingbee/dtc-landing-page
 ---
 
 # DTC Landing Page Builder
